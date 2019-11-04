@@ -6,7 +6,7 @@ The [Phaser 3 Tutorial](http://phaser.io/tutorials/making-your-first-phaser-3-ga
 
 To test locally, run
 
-    bundle i && npm i && npm start
+    bundle i && npm i && bundle exec rake build && npm start
 
 and visit `http://localhost:8080`
 
